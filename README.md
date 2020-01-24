@@ -3,6 +3,9 @@
 **Sample Screenshot:**
 ![Sample](SampleSignUp.png)
 
+**Project Video:**
+[https://www.youtube.com/watch?v=jTnqAGxYsII](https://www.youtube.com/watch?v=jTnqAGxYsII)
+
 **Features:**
 
 - Cart  
