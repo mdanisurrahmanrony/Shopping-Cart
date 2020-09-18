@@ -4,9 +4,7 @@
 ![Sample](SampleSignUp.png)
 
 ## Project Video in YouTube
-[https://www.youtube.com/watch?v=jTnqAGxYsII](https://www.youtube.com/watch?v=jTnqAGxYsII)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jTnqAGxYsII/0.jpg)](https://www.youtube.com/watch?v=jTnqAGxYsII)
-[![Alt text](https://img.youtube.com/vi/jTnqAGxYsII/0.jpg)](https://www.youtube.com/watch?v=jTnqAGxYsII)
 
 **Features:**
 
